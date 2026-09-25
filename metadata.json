@@ -1,0 +1,6 @@
+{
+  "name": "Al Quresh Mall",
+  "description": "Premier shopping destination on Millat Road, Faisalabad. Browse store directory, shop men's and ladies' suits, perfumes, cosmetics, get real-time discounts and navigation assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
